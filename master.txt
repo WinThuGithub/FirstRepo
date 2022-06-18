@@ -1,1 +1,2 @@
 Hello default master branch.
+Makes some of changes to it!
